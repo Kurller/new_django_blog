@@ -90,12 +90,11 @@ DATABASES = {
     'default': {
 
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'koladb',
-        'USER': 'postgres',
-        'PASSWORD': '1234',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
-
+        'NAME': 'railway',
+        'USER' : 'postgres',
+        'PASSWORD': 'qXFo2BfTnqIgxFwpuKc9',
+        'HOST': 'containers-us-west-149.railway.app',
+        'PORT': '6938'
     }
 
 }
